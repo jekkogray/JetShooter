@@ -1,5 +1,7 @@
 # JetShooter
 
+<b>Jekko Syquia</b>
+
 ## About
 You are Jet Shooter, A badass jumbo jet from the future, where planes rules and rockets are the enemies with angry faces. A difficult and familiar air awaits you as you fight your way to this game.
 
