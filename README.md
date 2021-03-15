@@ -14,8 +14,10 @@ All Visuals are drawn by me btw, using Adobe Photshop and Illustrator.
 
 ## Reviews 
 "I really like the face of my character. He means business." -My friend..
+
 "Why are you letting me play this?" -My friend..
-"Stop" -My friend...
+
+"Uhhhhh" -My friend...
 
 ## Installation
 Download the executable located in this repository.
