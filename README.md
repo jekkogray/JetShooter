@@ -9,7 +9,8 @@ Watch out for the rockets I swear, they can kill. If enough of them is given.
 
 All Visuals are drawn by me btw, using Adobe Photshop and Illustrator.
 ## Gameplay
-[Awesome Gameplay]()
+[Awesome Gameplay](https://youtu.be/sQHJjCoLt1c)
+Music by https://www.youtube.com/watch?v=KRQuDM4FgE8&ab_channel=ChuckSims
 ## Controls
 
 ## Reviews 
@@ -19,11 +20,13 @@ All Visuals are drawn by me btw, using Adobe Photshop and Illustrator.
 
 "Uhhhhh" -My friend...
 
+"Wow I actually like it..." -My friend...
+
 ## Installation
 Download the executable located in this repository.
 
 ## Controls
-<i>For pro: players</i>
+<i>For non pro-players only (pros never uses instructions whatttt).</i>
 
 `W, A, S, D`- Move jumbo jet.
 
@@ -31,4 +34,6 @@ Download the executable located in this repository.
 
 `Spacebar` - Shoot
 
-`Shift` - Shoot
+`Shift` - Boost
+
+`Click on Enemy` - Honing rockets
