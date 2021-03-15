@@ -24,7 +24,11 @@ Download the executable located in this repository.
 
 ## Controls
 <i>For pro: players</i>
+
 <b>W, A, S, D<b> - Move jumbo jet.
+
 <b>C</b> - Shield (Reduces enemy damage to %50).
+
 <b>Spacebar</b> - Shoot
+
 <b>Shift</b> - Shoot
